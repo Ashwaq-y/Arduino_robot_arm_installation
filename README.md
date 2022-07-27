@@ -2,7 +2,7 @@
 In this repository I will show the steps of installing arduino IDE and the robot arm package.
 First we will install the arduino IDE.
 ## Arduino IDE installation
-Download the arduino IDE from [here](https://www.arduino.cc/en/software), then extract the file move it to home and rename it to arduino for simplicity.
+Download the arduino IDE from [here](https://www.arduino.cc/en/software), then extract the file move it to home, and rename it to arduino for simplicity.
 
 Go to the terminal and type the following commmands:
 
