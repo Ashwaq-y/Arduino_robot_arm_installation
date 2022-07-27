@@ -16,7 +16,7 @@ sudo ./install.sh
 ```
 and the program should open.
 
-Then to connect it with ROS andinstall the ros_lib library, follow the commands:
+Then to connect it with ROS and install the ros_lib library, use the following commands:
 
 <ins>if you still in the arduino directory just type cd
 
