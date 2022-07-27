@@ -2,7 +2,7 @@
 In this repository I will show the steps of installing arduino IDE and the robot arm package.
 First we will install the arduino IDE.
 ## Arduino IDE installation
-Download the arduino IDE from [here](https://www.arduino.cc/en/software), then extract the file move it to home, and rename it to arduino.
+Download the arduino IDE from [here](https://www.arduino.cc/en/software), then extract the file move it to home directory, and rename it to arduino.
 
 Go to the terminal and type the following commmands:
 
@@ -26,7 +26,7 @@ sudo apt-get install ros-noetic-rosserial
 
 ```
 
-got to the home and look for a file named sketchbook sometime it has a diffrent name in my case it was Arduino then open it and go the library file, open it in terminal and type the following command
+go to home directory and look for a file named sketchbook sometime it has a diffrent name in my case it was Arduino then open it and go the library file, right click and open it in terminal and type the following command
 ```
  rm -rf ros_lib
  rosrun rosserial_arduino make_libraries.py .
